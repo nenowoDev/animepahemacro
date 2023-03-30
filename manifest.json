@@ -1,0 +1,19 @@
+{
+    "name": "Animepahe downloader",
+    "version": "1.0",
+    "description": "Download animepahe",
+    "manifest_version": 3,
+    "permissions": [
+      "activeTab",
+      "tabs",
+      "downloads"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ]
+   
+  }
+  
