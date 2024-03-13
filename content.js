@@ -6,7 +6,7 @@ function processLinks() {
     const link1080p = filteredLinks.find(link => link.href.includes('pahe.win') && link.innerText.includes('1080p'));
     const linkkwik = filteredLinks.find(link => link.href.includes('kwik.si/f'));
 
-    const timeoutspann=200;
+    const timeoutspann=2000;
 
     if (link1080p) {
         console.log(`Found link with 1080p: ${link1080p.href}`);
