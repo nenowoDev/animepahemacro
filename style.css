@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    background-color: aquamarine;
+}
+
+
+.maincontent{
+    border: solid;
+    padding: 20px;
+    border-radius: 3px;
+    border-color: bisque;
+}
+
+.maintext{
+    color: black;
+    font-weight: bold;
+}
