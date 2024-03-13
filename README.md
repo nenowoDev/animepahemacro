@@ -1,10 +1,5 @@
 # animepahemacro
-automate animepahe button clicking task
 
-used in animepahe,, click on anime title, and then choose eps, it will download the eps, this save a ton of clicking times
+This is a chrome extension. 
+The purpose of this extension is to click buttons to download anime from animepahe.
 
-its a chrome extension 
-
-#TO DO
-
-make it automate for an entire series
