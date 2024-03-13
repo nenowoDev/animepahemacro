@@ -20,7 +20,7 @@ function processLinks() {
         }, timeoutspann);
     }
   
-    const linkkwik = filteredLinks.find(link => link.href.includes('kwik.cx/f'));
+    const linkkwik = filteredLinks.find(link => link.href.includes('kwik.si/f'));
     var timeoutspann=200;
     
     if (linkkwik) {
@@ -33,7 +33,7 @@ function processLinks() {
     }
 
     
-    if (currentUrl.includes('kwik.cx')) {
+    if (currentUrl.includes('kwik.si')) {
         // Find the button on the page
         const button = document.querySelector('button');
 
