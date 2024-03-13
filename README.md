@@ -40,6 +40,8 @@ The purpose of this extension is to click buttons to download anime from animepa
 
 ![image](https://github.com/nenowoDev/animepahemacro/assets/38612806/099195a4-3986-4869-884c-71dedaa72220)
 
+From here script will run and click buttons until u get your download links
+
 
 
 <h1>To do</h1>
